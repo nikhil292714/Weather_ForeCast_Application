@@ -4,7 +4,7 @@ body {
     
     font-family: 'Open Sans', sans-serif;
     background: #222;
-    background: url('../App2-Weather-app-main/media/38097980af3d2e4781b87e2ccdfa87ac.jpg');
+    background-image:linear-gradient(45deg, red, yellow, red);
     font-size: 120%;
     background-repeat: no-repeat;
     background-size: cover;
